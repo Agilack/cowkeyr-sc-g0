@@ -1,0 +1,3 @@
+# Kicad temporary and backup files
+*.bak
+*-backups
